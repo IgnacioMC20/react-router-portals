@@ -1,4 +1,5 @@
-import { About, Card, Contact, Home } from "../pages";
+import { About, Card, Home } from "../pages";
+import Contact from "../pages/Contact";
 
 interface IRoutes {
     pathname: string;
